@@ -5,9 +5,8 @@ import "./App.css";
 
 const MY_FIRST_QUERY = gql`
   query MyQuery {
-    Equipment {
+    Equipment(first: 1) {
       id
-      type
     }
   }
 `;
