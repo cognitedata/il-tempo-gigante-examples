@@ -7,5 +7,7 @@
 # The repo contains example code for ITG 
 
 ## Current examples:
-- **itg-connected-react-app**: <br> Using React and Apollo. A minimal code example of a React app connected to ITG with a single query.
+| Example      | Description |
+| ----------- | ----------- |
+| [`itg-connected-react-app`](https://github.com/cognitedata/il-tempo-gigante-examples/tree/master/itg-connected-react-app)| Using React and Apollo. A minimal code example of a React app connected to ITG with a single query.      |
 
